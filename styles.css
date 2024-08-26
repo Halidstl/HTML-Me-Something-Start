@@ -1,1 +1,32 @@
-/* Write your CSS here! */
+p {
+    margin:auto;
+    text-align: center;
+    padding: 25px;
+}
+
+#mainHeading {
+    color: red;
+    text-align: center;
+
+}
+
+.cities {
+    margin:auto;
+    text-align: center;
+}
+
+body {
+    margin: 8px;
+    display: block;
+}
+
+.funParagraph {
+    color: green;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
